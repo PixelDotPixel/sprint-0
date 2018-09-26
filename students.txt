@@ -30,6 +30,7 @@ Jacob Sowanick, sowanicj, sowanicj
 Kai Gay,gayk,kai-ga
 Joshua Fisher,fisherj2,joshuasfisher
 Amanda Crawford, crawfama, Amanda-Crawford
+Sean Spink, spinks, PixelDotPixel 
 Emily Domínguez,domingue,emilymd
 Mitchell Schenk, schenkmi, mitchell-schenk
 Jared Beale, bealej, JaredBeale
@@ -58,4 +59,3 @@ Chasen Yamashita, yamashch, ChasenYamashita
 Huahua Wang, wanghuah, HuahuaWang2018
 Alexandra Leamy, leamya, AlexLeam
 Shane Clancy, clancys, ShaneClancy
-; Sean, spinks, PixelDotPixel;
